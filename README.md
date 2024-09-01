@@ -1,1 +1,1 @@
-This is life at https://mole-game-archange.netlify.app/
+This is life at https://archange-mbah.github.io/Mole_Game/
